@@ -31,7 +31,7 @@ This Python script allows you to analyze and compare multiple `.logarchive` file
 ## ▶️ Usage
 
 ```bash
-python3 compare_logarchives_multi.py <path1> <path2> ...
+python3 compare_logarchives.py <path1_> <path2> ...
 ```
 
 You can provide one or more of the following:
