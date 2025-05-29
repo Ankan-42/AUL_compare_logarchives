@@ -1,6 +1,6 @@
 # LogArchive Comparison Tool
 
-This Python script allows you to analyze and compare multiple `.logarchive` files or compressed `sysdiagnose` archives from macOS systems. It extracts key forensic metrics such as time span (TTL), file size, total events, and number of unique processes. It generates:
+This Python script allows you to analyze and compare multiple `.logarchive` files or compressed `sysdiagnose` archives from any Apple OS systems. It extracts key forensic metrics such as time span (TTL), file size, total events, and number of unique processes. It generates:
 
 * A CSV summary file
 * An interactive HTML dashboard with bar charts for quick visual comparison
@@ -73,6 +73,4 @@ Temporary folders are only removed after confirmation.
 
 This tool is designed for forensic or diagnostic purposes. Ensure appropriate permissions and respect privacy when analyzing system logs.
 
----
 
-Developed by a digital forensics expert with specialization in Apple macOS.
