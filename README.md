@@ -42,7 +42,7 @@ You can provide one or more of the following:
 ### Example
 
 ```bash
-python3 compare_logarchives_multi.py ~/logs/macos_15.6.logarchive ~/sysdiagnose/sysdiag_15.5.tar.gz
+python3 compare_logarchives.py ~/logs/macos_15.6.logarchive ~/sysdiagnose/sysdiag_15.5.tar.gz
 ```
 
 After execution:
